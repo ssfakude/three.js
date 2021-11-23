@@ -1,9 +1,10 @@
 
-Install dependencies (only the first time)
+# Scrollable 3D Animation with Three.js
+
+## Usage
+
+```
+git clone <this-repo>
 npm install
-
-Run the local server at localhost:8080
 npm run dev
-
-Build for production in the dist/ directory
-npm run build
+```
